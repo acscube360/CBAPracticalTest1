@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Arunawijesinghe</string>
+    <string name="login_title">Login</string>
+    <string name="uname_hint">Username</string>
+    <string name="pword_hint">Password</string>
+    <string name="view_profile">View Profile</string>
+    <string name="id">Id:</string>
+    <string name="email_address">Email address:</string>
+    <string name="name">Name:</string>
+    <string name="date_of_birth">Date of birth:</string>
+    <string name="gender">Gender:</string>
+    <string name="company">Company:</string>
+    <string name="position">Position</string>
+
+</resources>
